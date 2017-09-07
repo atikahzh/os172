@@ -1,0 +1,8 @@
+Short Description of task week 1 :
+- mempelajari bagaimana cara clone dari repository
+- mempelajari bagaimana berpindah directory
+- mempelajari bagaimana membuat folder dan file di badak
+- mempelajari bagaimana push dan pull ke github
+- mempelajari bagaimana mengedit file di badak
+- mempelajari bagaimana menghapus file di badak 
+- mempelajari scripting
