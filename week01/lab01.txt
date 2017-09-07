@@ -20,3 +20,4 @@ drwxr-xr-x  2 atikah.zahrah StafCS 4096 Sep  7 13:49 week09
 drwxr-xr-x  2 atikah.zahrah StafCS 4096 Sep  7 13:49 week10
 drwxr-xr-x  2 atikah.zahrah StafCS 4096 Sep  7 13:49 xtra
 /home/fasilkom/mahasiswa/a/atikah.zahrah/os172/week01
+Today is 07 Sep 2017 at 15:10:45
