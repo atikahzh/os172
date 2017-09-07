@@ -1,1 +1,3 @@
 #atikahzh
+
+Agar user lebih bisa mengoperasikan fungsi utama komputer, memahami fitur yang ada di sistem operasi suatu komputer. lebih efisien terhadap waktu karena bisa saja menyelesaikan pekerjaannya lebih cepat, mengoptimalkan hardware yang dimilkinya dengan baik, handling troubleshooting yang sederhana seperti komputer hang, 
