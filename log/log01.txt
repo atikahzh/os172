@@ -3,6 +3,6 @@ w00-170831-16-LR-About: Introduction to Operating System, From: Lecturer
 w00-170902-22-LR-About: Introduction to Linux, From: Youtube: https://www.youtube.com/watch?v=_gCwCOhMcog
 w01-170905-14-PS-Lab Session
 w01-170905-14-PS-Lab Session
-w00-170905-16-DS-Discuss scripting
+w01-170905-16-DS-Discuss scripting
 w01-170907-16-LR-About: HKI, From: Lecturer
 w01-170209-21-LR-About: Scripting, From: Lecturer
